@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jethlix/static/css/main.f81b030b.chunk.css",
+    "main.css": "/jethlix/static/css/main.430758aa.chunk.css",
     "main.js": "/jethlix/static/js/main.a7cebf06.chunk.js",
     "main.js.map": "/jethlix/static/js/main.a7cebf06.chunk.js.map",
     "runtime-main.js": "/jethlix/static/js/runtime-main.3af7f16e.js",
@@ -8,13 +8,13 @@
     "static/js/2.b7519690.chunk.js": "/jethlix/static/js/2.b7519690.chunk.js",
     "static/js/2.b7519690.chunk.js.map": "/jethlix/static/js/2.b7519690.chunk.js.map",
     "index.html": "/jethlix/index.html",
-    "static/css/main.f81b030b.chunk.css.map": "/jethlix/static/css/main.f81b030b.chunk.css.map",
+    "static/css/main.430758aa.chunk.css.map": "/jethlix/static/css/main.430758aa.chunk.css.map",
     "static/js/2.b7519690.chunk.js.LICENSE.txt": "/jethlix/static/js/2.b7519690.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3af7f16e.js",
     "static/js/2.b7519690.chunk.js",
-    "static/css/main.f81b030b.chunk.css",
+    "static/css/main.430758aa.chunk.css",
     "static/js/main.a7cebf06.chunk.js"
   ]
 }
